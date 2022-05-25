@@ -1,0 +1,83 @@
+C:\Users\1096482\Desktop\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\bin\Debug\EBook.exe.config
+C:\Users\1096482\Desktop\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\bin\Debug\EBook.exe
+C:\Users\1096482\Desktop\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\bin\Debug\EBook.pdb
+C:\Users\1096482\Desktop\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.csprojAssemblyReference.cache
+C:\Users\1096482\Desktop\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.csproj.GenerateResource.cache
+C:\Users\1096482\Desktop\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.csproj.CoreCompileInputs.cache
+C:\Users\1096482\Desktop\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.exe
+C:\Users\1096482\Desktop\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.pdb
+C:\Users\1096482\Desktop\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.Registration.resources
+C:\Users\1096482\Desktop\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.Training.resources
+C:\Users\1096482\Desktop\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.LeaderTable.resources
+C:\Users\1096482\Desktop\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.Practice.resources
+C:\Users\1096482\Desktop\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.Theory.resources
+C:\Users\1096482\Desktop\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.TextBook_inside.resources
+C:\Users\1096482\Desktop\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.test.resources
+C:\Users\1096482\Desktop\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.menuVebora.resources
+C:\Users\1096482\Desktop\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.Properties.Resources.resources
+C:\Users\1096482\Desktop\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.test_1.resources
+C:\Users\1096482\Desktop\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.test_2.resources
+C:\Users\1096482\Desktop\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.test_3.resources
+C:\Users\1096482\Desktop\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.test_4.resources
+C:\Users\1096482\Desktop\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.editor_users.resources
+C:\Users\1096482\Desktop\Новая папка\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\bin\Debug\database.mdb
+C:\Users\1096482\Desktop\Новая папка\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\bin\Debug\EBook.exe.config
+C:\Users\1096482\Desktop\Новая папка\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\bin\Debug\EBook.exe
+C:\Users\1096482\Desktop\Новая папка\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\bin\Debug\EBook.pdb
+C:\Users\1096482\Desktop\Новая папка\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.csprojAssemblyReference.cache
+C:\Users\1096482\Desktop\Новая папка\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.Autorization.resources
+C:\Users\1096482\Desktop\Новая папка\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.editor_users.resources
+C:\Users\1096482\Desktop\Новая папка\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.LeaderTable.resources
+C:\Users\1096482\Desktop\Новая папка\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.Main.resources
+C:\Users\1096482\Desktop\Новая папка\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.menuVebora.resources
+C:\Users\1096482\Desktop\Новая папка\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.Practice.resources
+C:\Users\1096482\Desktop\Новая папка\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.Properties.Resources.resources
+C:\Users\1096482\Desktop\Новая папка\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.Registration.resources
+C:\Users\1096482\Desktop\Новая папка\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.test_1.resources
+C:\Users\1096482\Desktop\Новая папка\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.test.resources
+C:\Users\1096482\Desktop\Новая папка\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.test_2.resources
+C:\Users\1096482\Desktop\Новая папка\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.test_3.resources
+C:\Users\1096482\Desktop\Новая папка\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.test_4.resources
+C:\Users\1096482\Desktop\Новая папка\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.TextBook_inside.resources
+C:\Users\1096482\Desktop\Новая папка\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.Theory.resources
+C:\Users\1096482\Desktop\Новая папка\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.Training.resources
+C:\Users\1096482\Desktop\Новая папка\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.csproj.GenerateResource.cache
+C:\Users\1096482\Desktop\Новая папка\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.csproj.CoreCompileInputs.cache
+C:\Users\1096482\Desktop\Новая папка\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.exe
+C:\Users\1096482\Desktop\Новая папка\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.pdb
+C:\Users\1096482\Desktop\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.Autorization.resources
+C:\Users\1096482\Desktop\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.Main.resources
+C:\Users\1096482\Desktop\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\1096482\Desktop\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\1096482\Desktop\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\1096482\Desktop\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\1096482\Desktop\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\1096482\Desktop\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\1096482\Desktop\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\1096482\Desktop\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\1096482\Desktop\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.csproj.ResolveComReference.cache
+C:\Users\1096482\Desktop\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.Reports.resources
+C:\Users\1096482\Desktop\Дипломная\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.csproj.CopyComplete
+C:\Users\123456\Desktop\1\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.csprojAssemblyReference.cache
+C:\Users\123456\Desktop\1\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.csproj.ResolveComReference.cache
+C:\Users\123456\Desktop\1\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.Autorization.resources
+C:\Users\123456\Desktop\1\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.editor_users.resources
+C:\Users\123456\Desktop\1\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.LeaderTable.resources
+C:\Users\123456\Desktop\1\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.Main.resources
+C:\Users\123456\Desktop\1\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.menuVebora.resources
+C:\Users\123456\Desktop\1\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.Practice.resources
+C:\Users\123456\Desktop\1\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.Properties.Resources.resources
+C:\Users\123456\Desktop\1\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.Registration.resources
+C:\Users\123456\Desktop\1\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.Reports.resources
+C:\Users\123456\Desktop\1\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.test_1.resources
+C:\Users\123456\Desktop\1\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.test.resources
+C:\Users\123456\Desktop\1\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.test_2.resources
+C:\Users\123456\Desktop\1\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.test_3.resources
+C:\Users\123456\Desktop\1\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.test_4.resources
+C:\Users\123456\Desktop\1\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.TextBook_inside.resources
+C:\Users\123456\Desktop\1\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.Theory.resources
+C:\Users\123456\Desktop\1\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.Training.resources
+C:\Users\123456\Desktop\1\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.csproj.GenerateResource.cache
+C:\Users\123456\Desktop\1\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.csproj.CoreCompileInputs.cache
+C:\Users\123456\Desktop\1\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.exe
+C:\Users\123456\Desktop\1\App\Общие правила и требования выполнения электрических схем\EBook\EBook\obj\Debug\EBook.pdb
